@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ListPartOne" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="ProgramasQueFizUsandoLISTAS.DescobrindoOAssassino_LIST.MesesAndTemperaturas.OrdenandoElementos.PrimeiraParteLista.ListPartOne" />
+    <module name="TrabalhandoComCollectionsDIO.main" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
