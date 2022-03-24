@@ -1,4 +1,4 @@
-package ProgramasQueFizUsandoLISTAS.DescobrindoOAssassino_LIST;
+package DescobrindoOAssassino__LISTAS;
 
 import java.util.ArrayList;
 import java.util.List;

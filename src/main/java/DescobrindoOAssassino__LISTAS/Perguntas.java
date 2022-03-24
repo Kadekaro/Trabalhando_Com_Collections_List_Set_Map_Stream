@@ -1,4 +1,4 @@
-package ProgramasQueFizUsandoLISTAS.DescobrindoOAssassino_LIST;
+package DescobrindoOAssassino__LISTAS;
 
 public class Perguntas {
     public String primeira, segunda, terceira, quarta, quinta;
